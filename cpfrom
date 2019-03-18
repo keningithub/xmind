@@ -1,0 +1,3 @@
+cp -r /storage/sdcard0/XMind/workbook ./
+pwd
+
